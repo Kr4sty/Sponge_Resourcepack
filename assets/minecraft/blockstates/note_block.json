@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "instrument=harp,note=0,powered=false": {
+      "model": "minecraft:block/noteblock_harp_lesser_indicator"
+    },
+    "instrument=harp,note=0,powered=true": {
+      "model": "minecraft:block/noteblock_harp_lesser_indicator"
+    },
+    "instrument=harp,note=1,powered=false": {
+      "model": "minecraft:block/noteblock_harp_standard_indicator"
+    },
+    "instrument=harp,note=1,powered=true": {
+      "model": "minecraft:block/noteblock_harp_standard_indicator"
+    },
+    "instrument=harp,note=2,powered=false": {
+      "model": "minecraft:block/noteblock_harp_greater_indicator"
+    },
+    "instrument=harp,note=2,powered=true": {
+      "model": "minecraft:block/noteblock_harp_greater_indicator"
+    },
+    "instrument=harp,note=3,powered=false": {
+      "model": "minecraft:block/noteblock_harp_arch_indicator"
+    },
+    "instrument=harp,note=3,powered=true": {
+      "model": "minecraft:block/noteblock_harp_arch_indicator"
+    },
+    "instrument=harp,note=4,powered=false": {
+      "model": "minecraft:block/noteblock_harp_apex_indicator"
+    },
+    "instrument=harp,note=4,powered=true": {
+      "model": "minecraft:block/noteblock_harp_apex_indicator"
+    }
+  }
+}

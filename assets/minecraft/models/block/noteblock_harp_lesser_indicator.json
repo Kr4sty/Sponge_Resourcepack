@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "minecraft:block/noteblock_harp_lesser_indicator"
+  }
+}

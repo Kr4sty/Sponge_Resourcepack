@@ -1,0 +1,132 @@
+{
+  "PIANO": {
+    "kind": "texture",
+    "source_path": "F:/Downloads/Untitled.png",
+    "extra_textures": []
+  },
+  "BASS_DRUM": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "SNARE_DRUM": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "STICKS": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "BASS_GUITAR": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "FLUTE": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "BELL": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "GUITAR": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "CHIME": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "XYLOPHONE": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "IRON_XYLOPHONE": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "COW_BELL": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "DIDGERIDOO": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "BIT": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "BANJO": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "PLING": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "TRUMPET": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "TRUMPET_EXPOSED": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "TRUMPET_OXIDIZED": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "TRUMPET_WEATHERED": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "ZOMBIE": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "SKELETON": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "CREEPER": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "DRAGON": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "WITHER_SKELETON": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  },
+  "PIGLIN": {
+    "kind": null,
+    "source_path": null,
+    "extra_textures": []
+  }
+}
